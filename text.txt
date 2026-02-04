@@ -1,2 +1,4 @@
-Some file with some text.
+Some file with some text. Some change.
+New line.
+//And a comment.
 File with text demo.
