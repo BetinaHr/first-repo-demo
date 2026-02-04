@@ -1,4 +1,4 @@
-Some file with some text.
+None file with some text.
 File with text demo.
 Sashi is cool.
 You better not delete this change.
